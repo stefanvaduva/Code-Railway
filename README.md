@@ -9,7 +9,7 @@ Although is using Duplo tracks, trains and bricks, this goes way beyond what LEG
 
 * Operations happen on tracks (flow control, stop, start) or in the stations (variable assignments, add/remove items from a list, sort lists, etc).
 
-Train cars can be (1) data holders (variables, constants) or (2) functions: 
+* Train cars can be (1) data holders (variables, constants) or (2) functions: 
 
 1. The content of the train car is the value (fixed for constants and variable for... variables). Values can be booleans (e.g. if a car has 0 or 1 passengers/goods), integers (the actual number of passengers/goods or the number written on a brick), chars (bricks with letters), lists/arrays/strings/sets (multiple number/letter bricks).
 
