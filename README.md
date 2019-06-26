@@ -1,5 +1,5 @@
 # Code-Railway
-Teaching 3-4yo kids basic programming skills using trains (especially Duplo)
+Teaching 3-4yo kids basic programming skills using trains (especially Duplo) - an idea I had while playing with my kid
 
 (English is not my native language, so please excuse the grammar for now)
 
