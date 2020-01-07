@@ -3,7 +3,7 @@ Teaching 3-4yo kids basic programming skills using trains (especially Duplo) - a
 
 (English is not my native language, so please excuse the grammar for now)
 
-Although is using Duplo tracks, trains and bricks, this goes way beyond what LEGO's "Coding Express" is doing and it's not limited to LEGO products. 
+Although this is using Duplo tracks, trains and bricks, it goes way beyond what LEGO's "Coding Express" is doing and it's not limited to LEGO products. 
 
 * The tracks are the program flow. You can use tracks and switches to form control structures (if-then, if-then-else, while, do-while, for). 
 
