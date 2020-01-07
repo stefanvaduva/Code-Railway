@@ -16,6 +16,9 @@ Although is using Duplo tracks, trains and bricks, this goes way beyond what LEG
 2. There is a special type of train car that holds multiple instructions (action bricks, or, on a more abstract level, minifigures that can perform certain tasks on/with data). These train cars are actually functions and these can be executed on the track (in the case of action bricks) or in the station (with people from the "function" car manipulating the data from the "variable/constant" cars.
 
 ## Example control structures
+
+Green is "in" and yellow is "out".
+
 ![Example control structures](https://github.com/stefanvaduva/Code-Railway/blob/master/example%20control%20structures.png "Example control structures")
 
 
